@@ -1,0 +1,11 @@
+MERIT MANTRA VIDEO PIPELINE - PORTABLE EDITION (no Claude needed)
+
+1. Double-click INSTALL.cmd           (one time: installs everything, signs in, asks for your Sarvam key)
+2. Put a topic file in the inbox folder (copy inbox\TEMPLATE.txt)
+3. Double-click MAKE_VIDEO.cmd        (finished Hinglish + English videos appear in the export folder)
+
+Want to read/edit the script first?  WRITE_SCRIPT.cmd  ->  edit videos\<slug>\script.json  ->  BUILD_VIDEO.cmd
+Something wrong?                     CHECK_SETUP.cmd   (reports only, changes nothing)
+
+Full guide: GUIDE.md (open it with Notepad, or any Markdown viewer)
+Cost: about Rs 3-5 of Sarvam pay-per-use credit per topic. Everything else is free. No subscriptions.
