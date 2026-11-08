@@ -1,0 +1,8 @@
+{
+  "name": "merit-mantra-portable",
+  "private": true,
+  "description": "Pins the HyperFrames CLI used for rendering",
+  "devDependencies": {
+    "hyperframes": "0.9.5"
+  }
+}
