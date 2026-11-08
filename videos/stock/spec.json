@@ -1,0 +1,847 @@
+{
+ "slug": "stock",
+ "name": "Airplane-Wing-Magic",
+ "langs": [
+  "hi",
+  "en"
+ ],
+ "voice": {
+  "hi": {
+   "speaker": "anand_hi_documentary",
+   "language": "hi-IN",
+   "pace": 1.2
+  },
+  "en": {
+   "speaker": "anand_en_documentary",
+   "fallback_speakers": [
+    "anand_hi_documentary",
+    "anand"
+   ],
+   "language": "en-IN",
+   "pace": 1.15
+  }
+ },
+ "beats": [
+  "L03",
+  "L16"
+ ],
+ "lines": [
+  {
+   "id": "L01",
+   "hi": {
+    "tts": "भारी हवाई जहाज़ हवा में कैसे उड़ता है?",
+    "cap": [
+     "bhaari hawai jahaz hawa mein",
+     "kaise udta hai?"
+    ]
+   },
+   "en": {
+    "tts": "How does a heavy airplane stay up in the air?",
+    "cap": [
+     "how does a heavy airplane",
+     "stay up in the air?"
+    ]
+   }
+  },
+  {
+   "id": "L02",
+   "hi": {
+    "tts": "अगर यह नियम फेल हो जाए, तो प्लेन बिल्कुल नहीं उड़ पाएगा।",
+    "cap": [
+     "agar yeh niyam fail ho jaye",
+     "toh plane bilkul nahi ud paayega."
+    ]
+   },
+   "en": {
+    "tts": "If this principle fails, the plane simply cannot fly.",
+    "cap": [
+     "if this principle fails the",
+     "plane simply cannot fly"
+    ]
+   }
+  },
+  {
+   "id": "L03",
+   "hi": {
+    "tts": "लेकिन असली राज़ यह है कि यह सिर्फ हवा को नीचे धकेलने से नहीं होता।",
+    "cap": [
+     "lekin asli raaz yeh hai ki",
+     "yeh sirf hawa ko neeche",
+     "dhakelne se nahi hota."
+    ]
+   },
+   "en": {
+    "tts": "But here's the twist: it has nothing to do with the wings simply pushing air down.",
+    "cap": [
+     "but here's the twist it has",
+     "nothing to do with the wings",
+     "simply pushing air down"
+    ]
+   }
+  },
+  {
+   "id": "L04",
+   "hi": {
+    "tts": "हवा सबसे पहले विंग के घुमावदार ऊपरी हिस्से से टकराती है।",
+    "cap": [
+     "hawa sabse pehle wing ke",
+     "ghumavdar oopri hisse se",
+     "takrati hai."
+    ]
+   },
+   "en": {
+    "tts": "It starts with air hitting the curved top surface of the wing.",
+    "cap": [
+     "it starts with air hitting",
+     "the curved top surface of",
+     "the wing"
+    ]
+   }
+  },
+  {
+   "id": "L05",
+   "hi": {
+    "tts": "घुमावदार आकार की वजह से ऊपर की हवा लंबा रास्ता तय करती है।",
+    "cap": [
+     "ghumaavdaar aakaar ki wajah",
+     "se oopar ki hawa lamba",
+     "raasta tay karti hai."
+    ]
+   },
+   "en": {
+    "tts": "The curved shape makes the air travel a longer path over the top.",
+    "cap": [
+     "the curved shape makes the",
+     "air travel a longer path",
+     "over the top"
+    ]
+   }
+  },
+  {
+   "id": "L06",
+   "hi": {
+    "tts": "पीछे के किनारे पर हवा से मिलने के लिए, ऊपर की हवा को तेज़ी से जाना पड़ता है।",
+    "cap": [
+     "peeche ke kinare par hawa se",
+     "milne ke liye oopar ki hawa",
+     "ko tezi se jaana padta hai."
+    ]
+   },
+   "en": {
+    "tts": "To meet the air at the back edge at the same time, the top air must speed up.",
+    "cap": [
+     "to meet the air at the",
+     "back edge at the same time",
+     "the top air must speed up"
+    ]
+   }
+  },
+  {
+   "id": "L07",
+   "hi": {
+    "tts": "जैसे बगीचे की पाइप को दबाने से पानी की स्पीड बढ़ जाती है।",
+    "cap": [
+     "jaise bageeche ki pipe ko",
+     "dabaane se paani ki speed",
+     "badh jaati hai."
+    ]
+   },
+   "en": {
+    "tts": "Like squeezing a garden hose to show how narrowing space increases water speed.",
+    "cap": [
+     "like squeezing a garden hose",
+     "to show how narrowing space",
+     "increases water speed"
+    ]
+   }
+  },
+  {
+   "id": "L08",
+   "hi": {
+    "tts": "बर्नौली के सिद्धांत के अनुसार, तेज़ हवा के ऊपर दबाव कम हो जाता है।",
+    "cap": [
+     "bernoulli ke siddhaant ke",
+     "anusaar tez hawa ke oopar",
+     "dabaav kam ho jaata hai."
+    ]
+   },
+   "en": {
+    "tts": "Connecting the faster top air to lower pressure above the wing using Bernoulli's principle.",
+    "cap": [
+     "connecting the faster top",
+     "air to lower pressure above",
+     "the wing using bernoulli's",
+     "principle"
+    ]
+   }
+  },
+  {
+   "id": "L09",
+   "hi": {
+    "tts": "नीचे का दबाव पंख को ऊपर की तरफ धकेलता है जिससे लिफ्ट बनती है।",
+    "cap": [
+     "neeche ka dabaav pankh ko",
+     "oopar ki taraf dhakelta hai",
+     "jisse lift banti hai."
+    ]
+   },
+   "en": {
+    "tts": "The higher pressure below pushes the wing upward, creating lift.",
+    "cap": [
+     "the higher pressure below",
+     "pushes the wing upward",
+     "creating lift"
+    ]
+   }
+  },
+  {
+   "id": "L10",
+   "hi": {
+    "tts": "यह दबाव का अंतर ही असल में विमान को हवा में टिकाए रखता है।",
+    "cap": [
+     "yeh dabaav ka antar hi asal",
+     "mein vimaan ko hawa mein",
+     "tikae rakhta hai."
+    ]
+   },
+   "en": {
+    "tts": "This pressure difference is actually what holds the plane up in the air.",
+    "cap": [
+     "this pressure difference is",
+     "actually what holds the",
+     "plane up in the air"
+    ]
+   }
+  },
+  {
+   "id": "L11",
+   "hi": {
+    "tts": "पंख हवा को नीचे धकेलता जरूर है, पर मुख्य लिफ्ट इसी दबाव के अंतर से आती है।",
+    "cap": [
+     "pankh hawa ko neeche",
+     "dhakelta jaroor hai, par",
+     "mukhya lift isi dabaav ke",
+     "antar se aati hai."
+    ]
+   },
+   "en": {
+    "tts": "Wings do deflect air downward, but the main lift comes from this pressure gap.",
+    "cap": [
+     "wings do deflect air",
+     "downward but the main lift",
+     "comes from this pressure gap"
+    ]
+   }
+  },
+  {
+   "id": "L12",
+   "hi": {
+    "tts": "पंख का आकार ऊपर एक तेज़ और कम दबाव वाला क्षेत्र बनाता है।",
+    "cap": [
+     "pankh ka aakaar upar ek tez",
+     "aur kam dabaav wala kshetra",
+     "banata hai."
+    ]
+   },
+   "en": {
+    "tts": "The shape of the wing creates a fast, low-pressure zone above it.",
+    "cap": [
+     "the shape of the wing",
+     "creates a fast low-pressure",
+     "zone above it"
+    ]
+   }
+  },
+  {
+   "id": "L13",
+   "hi": {
+    "tts": "यह अदृश्य दबाव का अंतर ही उड़ान का असली हीरो है।",
+    "cap": [
+     "yah adrishya dabaav ka antar",
+     "hi udaan ka asli hero hai"
+    ]
+   },
+   "en": {
+    "tts": "This invisible pressure difference is the true hero of flight.",
+    "cap": [
+     "this invisible pressure",
+     "difference is the true hero",
+     "of flight"
+    ]
+   }
+  },
+  {
+   "id": "L14",
+   "hi": {
+    "tts": "तो याद है, असली राज़ पंखों को धकेलने में नहीं है।",
+    "cap": [
+     "toh yaad hai, asli raaz",
+     "pankhon ko dhakelne mein",
+     "nahi hai"
+    ]
+   },
+   "en": {
+    "tts": "So remember, the real twist is not about pushing the wings.",
+    "cap": [
+     "so remember the real twist",
+     "is not about pushing the wings"
+    ]
+   }
+  },
+  {
+   "id": "L15",
+   "hi": {
+    "tts": "विमान इसलिए ऊपर रहता है क्योंकि पंख के ऊपर दबाव कम होता है।",
+    "cap": [
+     "vimaan isliye upar rehta hai",
+     "kyunki pankh ke upar dabaav",
+     "kam hota hai"
+    ]
+   },
+   "en": {
+    "tts": "The airplane stays up because the pressure above the wing is lower.",
+    "cap": [
+     "the airplane stays up",
+     "because the pressure above",
+     "the wing is lower"
+    ]
+   }
+  },
+  {
+   "id": "L16",
+   "hi": {
+    "tts": "हवा में टिके रहने का सारा लिफ्ट इसी दबाव के अंतर से बनता है।",
+    "cap": [
+     "hawa mein tike rehne ka",
+     "saara lift isi dabaav ke",
+     "antar se banta hai"
+    ]
+   },
+   "en": {
+    "tts": "All of lift that keeps it in the air is generated by this pressure difference.",
+    "cap": [
+     "all of lift that keeps it",
+     "in the air is generated by",
+     "this pressure difference"
+    ]
+   }
+  },
+  {
+   "id": "L17",
+   "hi": {
+    "tts": "ऐसी ही कॉन्सेप्चुअल क्लैरिटी के लिए, सब्सक्राइब करें मेरिट मंत्रा।",
+    "cap": [
+     "aisi hi conceptual clarity ke liye",
+     "subscribe karein merit mantra"
+    ]
+   },
+   "en": {
+    "tts": "For more conceptual clarity like this, subscribe to Merit Mantra.",
+    "cap": [
+     "for more conceptual clarity like this",
+     "subscribe to merit mantra"
+    ]
+   }
+  }
+ ],
+ "images": {
+  "hook": "airplane flying against blue sky photo",
+  "stakes": "pilot looking stressed in cockpit photo",
+  "twist": "pilot smiling and relaxing photo",
+  "analogy": "water flowing from a garden hose photo",
+  "fact": "wind tunnel testing a scale model photo",
+  "payoff": "modern jet flying smoothly photo",
+  "extra": "airport runway at sunset photo",
+  "detail": "close up of airplane wing photo"
+ },
+ "plates": {
+  "p_navy": {
+   "kind": "navy",
+   "glow": [
+    0.5,
+    0.42
+   ]
+  },
+  "p_navy_warm": {
+   "kind": "navy",
+   "glow": [
+    0.5,
+    0.3
+   ],
+   "glow2": [
+    0.5,
+    0.55
+   ]
+  },
+  "p_hook": {
+   "kind": "framed",
+   "img": "hook",
+   "fy": 0.42
+  },
+  "p_stakes": {
+   "kind": "framed",
+   "img": "stakes",
+   "fy": 0.42
+  },
+  "c_twist": {
+   "kind": "cut",
+   "img": "twist",
+   "w": 900
+  },
+  "c_analogy": {
+   "kind": "cut",
+   "img": "analogy",
+   "w": 900
+  },
+  "p_fact": {
+   "kind": "framed",
+   "img": "fact",
+   "fy": 0.42
+  },
+  "p_payoff": {
+   "kind": "framed",
+   "img": "payoff",
+   "fy": 0.42
+  },
+  "p_extra": {
+   "kind": "framed",
+   "img": "extra",
+   "fy": 0.42
+  },
+  "p_detail": {
+   "kind": "framed",
+   "img": "detail",
+   "fy": 0.42
+  },
+  "p_thumb": {
+   "kind": "framed",
+   "img": "hook",
+   "fy": 0.42,
+   "grade": {
+    "bright": 0.65
+   }
+  }
+ },
+ "thumb": {
+  "line1": {
+   "hi": "Bhari Plane Kaise Udata Hai",
+   "en": "How Heavy Plane Flies"
+  },
+  "line2": {
+   "hi": "Wings Ka Secret Revealed ✈️",
+   "en": "Wings' Secret Revealed ✈️"
+  },
+  "sub": {
+   "hi": "Kya aapko pata hai?",
+   "en": "Did you know?"
+  },
+  "size1": 84,
+  "size2": 58,
+  "plate": "p_thumb"
+ },
+ "sections": [
+  {
+   "id": "sa",
+   "at": "L01",
+   "shots": [
+    {
+     "name": "s01",
+     "at": "L01",
+     "push": [
+      1.0,
+      1.08
+     ],
+     "plate": "p_hook",
+     "kw": [
+      {
+       "at": "L01:1",
+       "text": {
+        "hi": "हवाई जहाज़ ✈️",
+        "en": "HEAVY AIRPLANE ✈️"
+       },
+       "cls": "wide",
+       "top": 400
+      }
+     ]
+    },
+    {
+     "name": "s02",
+     "at": "L02",
+     "push": [
+      1.08,
+      1.0
+     ],
+     "plate": "p_stakes"
+    }
+   ]
+  },
+  {
+   "id": "sb",
+   "at": "L03",
+   "shots": [
+    {
+     "name": "s03",
+     "at": "L03",
+     "push": [
+      1.0,
+      1.08
+     ],
+     "plate": "p_navy",
+     "cut": {
+      "png": "c_twist",
+      "x": 30,
+      "y": 560,
+      "w": 1020,
+      "move": [
+       -40,
+       30,
+       40,
+       -30,
+       -2,
+       2
+      ]
+     },
+     "flash": true,
+     "kw": [
+      {
+       "at": "L03:1",
+       "text": {
+        "hi": "असली राज़ 🤫",
+        "en": "THE TWIST 🤫"
+       },
+       "cls": "wide",
+       "top": 400
+      }
+     ]
+    },
+    {
+     "name": "s04",
+     "at": "L04",
+     "push": [
+      1.08,
+      1.0
+     ],
+     "plate": "p_detail"
+    },
+    {
+     "name": "s05",
+     "at": "L05",
+     "push": [
+      1.0,
+      1.08
+     ],
+     "plate": "p_detail",
+     "kw": [
+      {
+       "at": "L05:1",
+       "text": {
+        "hi": "लंबे रास्ते का चक्कर 🌀",
+        "en": "LONGER PATH 🌀"
+       },
+       "cls": "wide",
+       "top": 400
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sc",
+   "at": "L06",
+   "shots": [
+    {
+     "name": "s06",
+     "at": "L06",
+     "push": [
+      1.08,
+      1.0
+     ],
+     "plate": "p_detail"
+    },
+    {
+     "name": "s07",
+     "at": "L07",
+     "push": [
+      1.0,
+      1.08
+     ],
+     "plate": "p_navy",
+     "cut": {
+      "png": "c_analogy",
+      "x": 30,
+      "y": 560,
+      "w": 1020,
+      "move": [
+       -40,
+       30,
+       40,
+       -30,
+       -2,
+       2
+      ]
+     },
+     "kw": [
+      {
+       "at": "L07:1",
+       "text": {
+        "hi": "पाइप दबाना 💧",
+        "en": "SQUEEZING HOSE 💧"
+       },
+       "cls": "wide",
+       "top": 400
+      }
+     ]
+    },
+    {
+     "name": "s08",
+     "at": "L08",
+     "push": [
+      1.08,
+      1.0
+     ],
+     "plate": "p_navy_warm",
+     "cut": {
+      "png": "c_analogy",
+      "x": 30,
+      "y": 560,
+      "w": 1020,
+      "move": [
+       -40,
+       30,
+       40,
+       -30,
+       -2,
+       2
+      ]
+     }
+    }
+   ],
+   "dissolve": true
+  },
+  {
+   "id": "sd",
+   "at": "L09",
+   "shots": [
+    {
+     "name": "s09",
+     "at": "L09",
+     "push": [
+      1.0,
+      1.08
+     ],
+     "plate": "p_navy",
+     "cut": {
+      "png": "c_analogy",
+      "x": 30,
+      "y": 560,
+      "w": 1020,
+      "move": [
+       -40,
+       30,
+       40,
+       -30,
+       -2,
+       2
+      ]
+     },
+     "kw": [
+      {
+       "at": "L09:1",
+       "text": {
+        "hi": "LIFT बनती है ✈️",
+        "en": "CREATING LIFT ✈️"
+       },
+       "cls": "wide",
+       "top": 400
+      }
+     ]
+    },
+    {
+     "name": "s10",
+     "at": "L10",
+     "push": [
+      1.08,
+      1.0
+     ],
+     "plate": "p_fact"
+    },
+    {
+     "name": "s11",
+     "at": "L11",
+     "push": [
+      1.0,
+      1.08
+     ],
+     "plate": "p_fact",
+     "kw": [
+      {
+       "at": "L11:1",
+       "text": {
+        "hi": "मुख्य लिफ्ट इसी से ✈️",
+        "en": "MAIN LIFT COMES FROM ✈️"
+       },
+       "cls": "wide",
+       "top": 400
+      }
+     ]
+    }
+   ],
+   "dissolve": true
+  },
+  {
+   "id": "se",
+   "at": "L12",
+   "shots": [
+    {
+     "name": "s12",
+     "at": "L12",
+     "push": [
+      1.08,
+      1.0
+     ],
+     "plate": "p_detail"
+    },
+    {
+     "name": "s13",
+     "at": "L13",
+     "push": [
+      1.0,
+      1.08
+     ],
+     "plate": "p_extra",
+     "kw": [
+      {
+       "at": "L13:1",
+       "text": {
+        "hi": "उड़ान का हीरो ✈️",
+        "en": "HERO OF FLIGHT ✈️"
+       },
+       "cls": "wide",
+       "top": 400
+      }
+     ]
+    },
+    {
+     "name": "s14",
+     "at": "L14",
+     "push": [
+      1.08,
+      1.0
+     ],
+     "plate": "p_navy_warm",
+     "cut": {
+      "png": "c_twist",
+      "x": 30,
+      "y": 560,
+      "w": 1020,
+      "move": [
+       -40,
+       30,
+       40,
+       -30,
+       -2,
+       2
+      ]
+     }
+    }
+   ],
+   "dissolve": true
+  },
+  {
+   "id": "sf",
+   "at": "L15",
+   "shots": [
+    {
+     "name": "s15",
+     "at": "L15",
+     "push": [
+      1.0,
+      1.08
+     ],
+     "plate": "p_payoff",
+     "kw": [
+      {
+       "at": "L15:1",
+       "text": {
+        "hi": "कम दबाव 📉",
+        "en": "LOWER PRESSURE 📉"
+       },
+       "cls": "wide",
+       "top": 400
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sg",
+   "at": "L16",
+   "shots": [
+    {
+     "name": "s16",
+     "at": "L16",
+     "push": [
+      1.08,
+      1.0
+     ],
+     "plate": "p_payoff",
+     "streak": true,
+     "kw": [
+      {
+       "at": "L16:1",
+       "text": {
+        "hi": "लिफ्ट का राज़ 🛩️",
+        "en": "SECRET OF LIFT 🛩️"
+       },
+       "cls": "wide",
+       "top": 400
+      }
+     ]
+    },
+    {
+     "name": "cta",
+     "at": "L17",
+     "plate": "p_navy",
+     "push": [
+      1.0,
+      1.04
+     ],
+     "cta": true,
+     "cta_at": "L17:1"
+    }
+   ]
+  }
+ ],
+ "payoff": "L16",
+ "music": [
+  {
+   "track": "bgm_001",
+   "at": "L01",
+   "gain": -18
+  },
+  {
+   "track": "bgm_003",
+   "at": "L05",
+   "gain": -11
+  },
+  {
+   "track": "bgm_002",
+   "at": "L13",
+   "gain": -12
+  }
+ ],
+ "meta": {
+  "hi": {
+   "title": "Airplane hawa mein kaise udta hai?",
+   "description": "Kya aapne kabhi socha hai ki itna bhaari airplane hawa mein kaise tairta rehta hai? Iska seedha connection Bernoulli's principle aur pressure difference se hai. Lekin asli science kuch aur hi kehti hai jo hum sabko pata honi chahiye.\n\nIs short video mein hum step-by-step samjhenge ki wing ka shape kaise lift create karta hai. Yeh invisible force hi plane ko upar hold karti hai. Agar yeh mechanism fail ho jaye, toh flight possible nahi hai.\n\nScience ke aise aur simple secrets samajhne ke liye, please subscribe to Merit Mantra.",
+   "hashtags": "#MeritMantra, #Science, #Aviation, #Physics, #Bernoulli, #Lift, #Airplane, #Shorts, #Learn, #Hinglish, #ScienceExplained, #Reels, #STEM, #Curiosity, #AviationScience",
+   "instagram": "Airplane hawa mein kaise udta hai?\nWings sirf hawa ko neeche nahi dhakelti.\nSubscribe to Merit Mantra for more simple science!\n#MeritMantra #Science #Aviation #Physics #Shorts #Learn #Hinglish #Reels #STEM #Curiosity"
+  },
+  "en": {
+   "title": "How does a heavy airplane stay up?",
+   "description": "Have you ever wondered how a massive airplane stays up in the air? The secret lies in Bernoulli's principle and the crucial pressure difference across the wings. But there is a hidden mechanism behind this everyday miracle.\n\nIn this quick explainer, we break down exactly how a wing generates lift step-by-step. This invisible force is what keeps the plane airborne, and if it fails, the aircraft simply cannot fly.\n\nTo understand more bite-sized science facts, please subscribe to Merit Mantra.",
+   "hashtags": "#MeritMantra, #Science, #Aviation, #Physics, #Bernoulli, #Lift, #Airplane, #Shorts, #Learn, #English, #ScienceExplained, #Reels, #STEM, #Curiosity, #AviationScience",
+   "instagram": "How does a heavy airplane stay up?\nIt is not just about pushing air down.\nSubscribe to Merit Mantra for more simple science!\n#MeritMantra #Science #Aviation #Physics #Shorts #Learn #English #Reels #STEM #Curiosity"
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+  "provider": "sarvam",
+  "api": "client.text_to_speech.convert",
+  "model": "bulbul:v4-flash",
+  "language_code": "hi-IN",
+  "pace": 1.2,
+  "speech_sample_rate": 44100,
+  "input": "Devanagari (script_lines.json 'tts' field)",
+  "voices": [
+    {
+      "rank": 1,
+      "speaker": "anand_hi_documentary",
+      "sample": "anand_hi_documentary.wav"
+    },
+    {
+      "rank": 2,
+      "speaker": "shubh_hi_stories_dramatic",
+      "sample": "shubh_hi_stories_dramatic.wav"
+    }
+  ],
+  "cloned_voices": [
+    {
+      "voice_id": "svc-253a8936-6387-4fc7-94af-376d9c32a7fe",
+      "name": "merit_mantra_0315",
+      "reference": "merit_mantra_0315_vocals.wav",
+      "source": "D:/Capcut output/0315.mp4 (Demucs vocals)",
+      "api": "client.voice_cloning.convert(voice_id=...)"
+    }
+  ]
+}

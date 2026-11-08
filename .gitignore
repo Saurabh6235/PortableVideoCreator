@@ -1,0 +1,12 @@
+.env
+node_modules/
+export/
+videos/*/audio/
+videos/*/media/
+videos/*/plates/
+videos/*/build_*/
+videos/*/kit/
+*.mp4
+*.wav
+*.mp3
+!pipeline/kit/**

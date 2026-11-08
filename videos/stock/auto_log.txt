@@ -1,0 +1,30 @@
+=== 2026-11-08 14:08  stock
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\writer.py D:\MeritMantra-Portable\videos\stock\input.txt D:\MeritMantra-Portable\videos\stock
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\layout.py D:\MeritMantra-Portable\videos\stock
+layout -> D:\MeritMantra-Portable\videos\stock\spec.json (7 sections, 17 shots, 8 images)
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_check.py D:\MeritMantra-Portable\videos\stock
+OK
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_audio.py voice D:\MeritMantra-Portable\videos\stock hi
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_audio.py narrate D:\MeritMantra-Portable\videos\stock hi
+hi narration done; voice_end 64.682 wps 3.53
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_audio.py voice D:\MeritMantra-Portable\videos\stock en
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_audio.py narrate D:\MeritMantra-Portable\videos\stock en
+en narration done; voice_end 64.578 wps 3.4
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_audio.py assets D:\MeritMantra-Portable\videos\stock
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\layout.py D:\MeritMantra-Portable\videos\stock
+layout -> D:\MeritMantra-Portable\videos\stock\spec.json (7 sections, 17 shots, 8 images)
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_check.py D:\MeritMantra-Portable\videos\stock
+OK
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_build.py sheet D:\MeritMantra-Portable\videos\stock
+sheet -> D:\MeritMantra-Portable\videos\stock\media\sheet.jpg
+
+
+Look at the images that opened. To swap one: change its search phrase in videos\stock\script.json ("images"),
+delete its line from videos\stock\media\assets.json, close this window and run BUILD_VIDEO.cmd stock again.
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_build.py all D:\MeritMantra-Portable\videos\stock
