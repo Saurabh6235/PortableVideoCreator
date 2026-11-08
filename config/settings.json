@@ -1,0 +1,14 @@
+{
+  "languages": ["hi", "en"],
+  "script_writer": "sarvam",
+  "sarvam_chat_model": "sarvam-105b-conversations",
+  "review_images": true,
+  "voice": {
+    "hi": {"speaker": "anand_hi_documentary", "language": "hi-IN", "pace": 1.2},
+    "en": {"speaker": "anand_en_documentary", "fallback_speakers": ["anand_hi_documentary", "anand"], "language": "en-IN", "pace": 1.15}
+  },
+  "cta": {
+    "hi": {"tts": "ऐसी ही कॉन्सेप्चुअल क्लैरिटी के लिए, सब्सक्राइब करें मेरिट मंत्रा।", "cap": ["aisi hi conceptual clarity ke liye", "subscribe karein merit mantra"]},
+    "en": {"tts": "For more conceptual clarity like this, subscribe to Merit Mantra.", "cap": ["for more conceptual clarity like this", "subscribe to merit mantra"]}
+  }
+}

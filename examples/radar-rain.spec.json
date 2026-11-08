@@ -1,0 +1,1037 @@
+{
+ "slug": "radar-rain",
+ "name": "Radar-Rain",
+ "langs": [
+  "hi",
+  "en"
+ ],
+ "voice": {
+  "hi": {
+   "speaker": "anand_hi_documentary",
+   "language": "hi-IN",
+   "pace": 1.2
+  },
+  "en": {
+   "speaker": "anand_en_documentary",
+   "fallback_speakers": [
+    "anand_hi_documentary",
+    "anand"
+   ],
+   "language": "en-IN",
+   "pace": 1.15
+  }
+ },
+ "beats": [
+  "L12",
+  "L18"
+ ],
+ "lines": [
+  {
+   "id": "L01",
+   "hi": {
+    "tts": "आसमान में दूर बारिश हो रही है… लेकिन रडार को कैसे पता चल जाता है?",
+    "cap": [
+     "aasmaan mein door",
+     "baarish ho rahi hai",
+     "lekin radar ko",
+     "kaise pata chal jaata hai?"
+    ]
+   },
+   "en": {
+    "tts": "Somewhere far away, it's raining in the sky… but how does a radar know?",
+    "cap": [
+     "somewhere far away",
+     "it's raining in the sky",
+     "but how does a radar know?"
+    ]
+   }
+  },
+  {
+   "id": "L02",
+   "hi": {
+    "tts": "वो बारिश दिख भी नहीं रही, बादलों के पीछे छुपी है, सौ किलोमीटर दूर।",
+    "cap": [
+     "wo baarish dikh bhi nahi rahi",
+     "baadalon ke peeche chhupi hai",
+     "100 km door"
+    ]
+   },
+   "en": {
+    "tts": "You can't even see that rain. It's hidden behind clouds, a hundred kilometres away.",
+    "cap": [
+     "you can't even see that rain",
+     "it's hidden behind clouds",
+     "100 km away"
+    ]
+   }
+  },
+  {
+   "id": "L03",
+   "hi": {
+    "tts": "राज़ है, एक ऐसी लहर जो हमें दिखती नहीं, इलेक्ट्रोमैग्नेटिक वेव।",
+    "cap": [
+     "raaz hai ek aisi lehar",
+     "jo humein dikhti nahi",
+     "electromagnetic wave"
+    ]
+   },
+   "en": {
+    "tts": "The secret is a wave your eyes can't see. An electromagnetic wave.",
+    "cap": [
+     "the secret is a wave",
+     "your eyes can't see",
+     "an electromagnetic wave"
+    ]
+   }
+  },
+  {
+   "id": "L04",
+   "hi": {
+    "tts": "रडार का एंटीना, माइक्रोवेव की छोटी छोटी पल्स, चारों तरफ़ फेंकता है।",
+    "cap": [
+     "radar ka antenna",
+     "microwave ki chhoti pulses",
+     "chaaron taraf phenkta hai"
+    ]
+   },
+   "en": {
+    "tts": "A radar antenna fires tiny pulses of microwaves in every direction.",
+    "cap": [
+     "a radar antenna fires",
+     "tiny pulses of microwaves",
+     "in every direction"
+    ]
+   }
+  },
+  {
+   "id": "L05",
+   "hi": {
+    "tts": "ये लहरें बादल की छोटी बूंदों से निकल जाती हैं, लेकिन बारिश की बड़ी बूंदों से टकराकर वापस लौटती हैं।",
+    "cap": [
+     "ye lehrein baadal ki",
+     "chhoti boondon se nikal jaati hain",
+     "lekin baarish ki badi boondon se",
+     "takraakar wapas laut-ti hain"
+    ]
+   },
+   "en": {
+    "tts": "These waves slip past tiny cloud droplets, but bounce off the bigger raindrops.",
+    "cap": [
+     "these waves slip past",
+     "tiny cloud droplets",
+     "but bounce off",
+     "the bigger raindrops"
+    ]
+   }
+  },
+  {
+   "id": "L06",
+   "hi": {
+    "tts": "जैसे पहाड़ पर आवाज़ की गूंज। इसे कहते हैं रिफ्लेक्शन।",
+    "cap": [
+     "jaise pahaad par awaaz ki goonj",
+     "ise kehte hain reflection"
+    ]
+   },
+   "en": {
+    "tts": "Like an echo in the mountains. This is called reflection.",
+    "cap": [
+     "like an echo in the mountains",
+     "this is called reflection"
+    ]
+   }
+  },
+  {
+   "id": "L07",
+   "hi": {
+    "tts": "गूंज कितनी देर में लौटी, उससे दूरी पता चलती है।",
+    "cap": [
+     "goonj kitni der mein lauti",
+     "usse doori pata chalti hai"
+    ]
+   },
+   "en": {
+    "tts": "How long the echo takes to return tells the distance.",
+    "cap": [
+     "how long the echo takes",
+     "to return",
+     "tells the distance"
+    ]
+   }
+  },
+  {
+   "id": "L08",
+   "hi": {
+    "tts": "सौ किलोमीटर दूर की बारिश से, जवाब एक मिलीसेकंड से भी कम में आ जाता है।",
+    "cap": [
+     "100 km door ki baarish se",
+     "jawab 1 millisecond se bhi",
+     "kam mein aa jaata hai"
+    ]
+   },
+   "en": {
+    "tts": "From rain a hundred kilometres away, the echo returns in less than a millisecond.",
+    "cap": [
+     "from rain 100 km away",
+     "the echo returns in",
+     "less than a millisecond"
+    ]
+   }
+  },
+  {
+   "id": "L09",
+   "hi": {
+    "tts": "और गूंज कितनी तेज़ है, उससे पता चलता है कि बारिश कितनी भारी है।",
+    "cap": [
+     "aur goonj kitni tez hai",
+     "usse pata chalta hai",
+     "baarish kitni bhaari hai"
+    ]
+   },
+   "en": {
+    "tts": "And how strong the echo is tells how heavy the rain is.",
+    "cap": [
+     "and how strong the echo is",
+     "tells how heavy",
+     "the rain is"
+    ]
+   }
+  },
+  {
+   "id": "L10",
+   "hi": {
+    "tts": "इसीलिए रडार मैप पर हरा मतलब हल्की बारिश, पीला मध्यम, और लाल मतलब तेज़ बारिश।",
+    "cap": [
+     "isiliye radar map par",
+     "hara matlab halki baarish",
+     "peela madhyam",
+     "aur laal matlab tez baarish"
+    ]
+   },
+   "en": {
+    "tts": "That's why on a radar map, green means light rain, yellow moderate, and red means heavy rain.",
+    "cap": [
+     "that's why on a radar map",
+     "green means light rain",
+     "yellow moderate",
+     "and red means heavy rain"
+    ]
+   }
+  },
+  {
+   "id": "L11",
+   "hi": {
+    "tts": "कंप्यूटर इसी गूंज से, मिलीमीटर प्रति घंटे में बारिश तक नाप लेता है।",
+    "cap": [
+     "computer isi goonj se",
+     "millimeter per ghante mein",
+     "baarish tak naap leta hai"
+    ]
+   },
+   "en": {
+    "tts": "Computers turn that echo into rainfall, in millimetres per hour.",
+    "cap": [
+     "computers turn that echo",
+     "into rainfall",
+     "in millimetres per hour"
+    ]
+   }
+  },
+  {
+   "id": "L12",
+   "hi": {
+    "tts": "पर असली जादू है, डॉप्लर इफ़ेक्ट।",
+    "cap": [
+     "par asli jaadu hai",
+     "doppler effect"
+    ]
+   },
+   "en": {
+    "tts": "But the real magic is the Doppler effect.",
+    "cap": [
+     "but the real magic is",
+     "the doppler effect"
+    ]
+   }
+  },
+  {
+   "id": "L13",
+   "hi": {
+    "tts": "एम्बुलेंस पास आती है तो साइरन की आवाज़ ऊँची लगती है, दूर जाती है तो नीची।",
+    "cap": [
+     "ambulance paas aati hai",
+     "to siren ki awaaz oonchi lagti hai",
+     "door jaati hai to neechi"
+    ]
+   },
+   "en": {
+    "tts": "When an ambulance comes closer, its siren sounds higher. As it moves away, lower.",
+    "cap": [
+     "when an ambulance comes closer",
+     "its siren sounds higher",
+     "as it moves away, lower"
+    ]
+   }
+  },
+  {
+   "id": "L14",
+   "hi": {
+    "tts": "बारिश की बूंदें भी, लौटती लहर की फ़्रीक्वेंसी थोड़ी बदल देती हैं।",
+    "cap": [
+     "baarish ki boondein bhi",
+     "lautti lehar ki frequency",
+     "thodi badal deti hain"
+    ]
+   },
+   "en": {
+    "tts": "Moving raindrops also shift the frequency of the returning wave, just a little.",
+    "cap": [
+     "moving raindrops also shift",
+     "the frequency of the returning wave",
+     "just a little"
+    ]
+   }
+  },
+  {
+   "id": "L15",
+   "hi": {
+    "tts": "इससे रडार जान लेता है, कि बारिश हमारी तरफ़ आ रही है या दूर जा रही है, और कितनी तेज़।",
+    "cap": [
+     "isse radar jaan leta hai",
+     "ki baarish humari taraf aa rahi hai",
+     "ya door ja rahi hai",
+     "aur kitni tez"
+    ]
+   },
+   "en": {
+    "tts": "So the radar knows whether the rain is coming toward us or moving away, and how fast.",
+    "cap": [
+     "so the radar knows",
+     "whether the rain is coming toward us",
+     "or moving away",
+     "and how fast"
+    ]
+   }
+  },
+  {
+   "id": "L16",
+   "hi": {
+    "tts": "और अगर पास पास, एक तरफ़ बूंदें आ रही हों और दूसरी तरफ़ जा रही हों,",
+    "cap": [
+     "aur agar paas paas",
+     "ek taraf boondein aa rahi hon",
+     "aur doosri taraf ja rahi hon"
+    ]
+   },
+   "en": {
+    "tts": "And if, side by side, drops rush in on one side and away on the other,",
+    "cap": [
+     "and if side by side",
+     "drops rush in on one side",
+     "and away on the other"
+    ]
+   }
+  },
+  {
+   "id": "L17",
+   "hi": {
+    "tts": "तो मतलब तूफ़ान घूम रहा है। यहीं से टॉर्नेडो जैसे घूमते तूफ़ानों की चेतावनी मिलती है।",
+    "cap": [
+     "to matlab toofaan ghoom raha hai",
+     "yahin se tornado jaise",
+     "ghoomte toofaanon ki chetavani milti hai"
+    ]
+   },
+   "en": {
+    "tts": "the storm is rotating. That's how forecasters spot tornado-like spinning storms.",
+    "cap": [
+     "the storm is rotating",
+     "that's how forecasters spot",
+     "tornado-like spinning storms"
+    ]
+   }
+  },
+  {
+   "id": "L18",
+   "hi": {
+    "tts": "यानी बारिश आप तक पहुँचे, उससे पहले ही, रडार उसकी गूंज सुन चुका होता है।",
+    "cap": [
+     "yaani baarish aap tak pahunche",
+     "usse pehle hi",
+     "radar uski goonj sun chuka hota hai"
+    ]
+   },
+   "en": {
+    "tts": "So before the rain ever reaches you, the radar has already heard its echo.",
+    "cap": [
+     "so before the rain",
+     "ever reaches you",
+     "the radar has already heard its echo"
+    ]
+   }
+  },
+  {
+   "id": "L19",
+   "hi": {
+    "tts": "ऐसी ही कॉन्सेप्चुअल क्लैरिटी के लिए, सब्सक्राइब करें मेरिट मंत्रा।",
+    "cap": [
+     "aisi hi conceptual clarity ke liye",
+     "subscribe karein merit mantra"
+    ]
+   },
+   "en": {
+    "tts": "For more conceptual clarity like this, subscribe to Merit Mantra.",
+    "cap": [
+     "for more conceptual clarity like this",
+     "subscribe to merit mantra"
+    ]
+   }
+  }
+ ],
+ "images": {
+  "dome": "weather radar dome tower",
+  "storm": "dark storm clouds rain shafts horizon",
+  "rain": "heavy rain falling city street",
+  "mountain": "mountain valley landscape dramatic",
+  "radarmap": "doppler weather radar map screen",
+  "ambulance": "ambulance siren lights night",
+  "tornado": "tornado supercell storm",
+  "drops": "raindrops macro close up",
+  "dish": "radar antenna dish",
+  "sunset_radar": "weather radar station sunset"
+ },
+ "plates": {
+  "p_storm": {
+   "kind": "cover",
+   "img": "storm",
+   "fx": 0.15,
+   "fy": 0.5
+  },
+  "p_thumb": {
+   "kind": "cover",
+   "img": "storm",
+   "fx": 0.15,
+   "fy": 0.5,
+   "grade": {
+    "bright": 0.6
+   }
+  },
+  "p_rain": {
+   "kind": "cover",
+   "img": "rain"
+  },
+  "p_mountain": {
+   "kind": "cover",
+   "img": "mountain",
+   "fx": 0.5
+  },
+  "p_tornado": {
+   "kind": "framed",
+   "img": "tornado",
+   "fy": 0.42
+  },
+  "p_drops": {
+   "kind": "cover",
+   "img": "drops",
+   "fx": 0.4
+  },
+  "p_ambulance": {
+   "kind": "framed",
+   "img": "ambulance",
+   "fy": 0.42
+  },
+  "p_navy": {
+   "kind": "navy",
+   "glow": [
+    0.5,
+    0.42
+   ]
+  },
+  "p_navy_warm": {
+   "kind": "navy",
+   "glow": [
+    0.5,
+    0.3
+   ],
+   "glow2": [
+    0.5,
+    0.5
+   ]
+  },
+  "p_dark": {
+   "kind": "navy",
+   "glow": [
+    0.5,
+    0.47
+   ]
+  },
+  "c_dish": {
+   "kind": "cut",
+   "img": "dish",
+   "w": 900
+  },
+  "c_dome": {
+   "kind": "cut",
+   "img": "dome",
+   "w": 420
+  }
+ },
+ "thumb": {
+  "plate": "p_thumb",
+  "cuts": [
+   {
+    "png": "c_dish",
+    "x": 150,
+    "y": 760,
+    "w": 780
+   }
+  ],
+  "line1": {
+   "hi": "INVISIBLE BAARISH",
+   "en": "INVISIBLE RAIN"
+  },
+  "line2": {
+   "hi": "RADAR KAISE DEKHTA? 📡",
+   "en": "HOW RADAR SEES IT 📡"
+  },
+  "sub": {
+   "hi": "Doppler ka secret 🌧️",
+   "en": "The Doppler secret 🌧️"
+  },
+  "size1": 130,
+  "size2": 84
+ },
+ "sections": [
+  {
+   "id": "sa",
+   "at": "L01",
+   "shots": [
+    {
+     "name": "storm",
+     "at": "L01",
+     "plate": "p_storm",
+     "push": [
+      1.0,
+      1.1
+     ],
+     "kw": [
+      {
+       "at": "L01:2",
+       "text": {
+        "hi": "RADAR KO KAISE PATA? 📡",
+        "en": "HOW DOES RADAR KNOW? 📡"
+       },
+       "top": 400
+      }
+     ]
+    },
+    {
+     "name": "hidden",
+     "at": "L02",
+     "plate": "p_rain",
+     "tags": [
+      {
+       "at": "L02:1",
+       "text": {
+        "hi": "baadalon ke peeche",
+        "en": "hidden behind clouds"
+       },
+       "x": 300,
+       "y": 470
+      }
+     ],
+     "data": {
+      "at": "L02:2",
+      "to": 100,
+      "unit": "km",
+      "label": {
+       "hi": "door",
+       "en": "away"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "sb",
+   "at": "L03",
+   "dissolve": true,
+   "shots": [
+    {
+     "name": "wave",
+     "at": "L03",
+     "plate": "p_navy",
+     "diagram": {
+      "type": "wave"
+     },
+     "kw": [
+      {
+       "at": "L03:2",
+       "text": {
+        "hi": "ELECTROMAGNETIC WAVE",
+        "en": "ELECTROMAGNETIC WAVE"
+       },
+       "top": 420
+      }
+     ]
+    },
+    {
+     "name": "pulses",
+     "at": "L04",
+     "plate": "p_navy",
+     "cut": {
+      "png": "c_dish",
+      "x": 90,
+      "y": 700,
+      "w": 900
+     },
+     "diagram": {
+      "type": "pulses",
+      "x": 540,
+      "y": 760,
+      "icon": false
+     },
+     "tags": [
+      {
+       "at": "L04:1",
+       "text": {
+        "hi": "microwave pulses",
+        "en": "microwave pulses"
+       },
+       "x": 340,
+       "y": 420
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sc",
+   "at": "L05",
+   "dissolve": true,
+   "shots": [
+    {
+     "name": "bounce",
+     "at": "L05",
+     "plate": "p_dark",
+     "diagram": {
+      "type": "bounce"
+     },
+     "tags": [
+      {
+       "at": "L05:1",
+       "text": {
+        "hi": "baadal ki boondein → paar",
+        "en": "cloud droplets → pass"
+       },
+       "x": 250,
+       "y": 600
+      },
+      {
+       "at": "L05:2",
+       "text": {
+        "hi": "baarish ki boondein → wapas",
+        "en": "raindrops → bounce back"
+       },
+       "x": 250,
+       "y": 1260,
+       "warm": true
+      }
+     ]
+    },
+    {
+     "name": "echo",
+     "at": "L06",
+     "plate": "p_mountain",
+     "kw": [
+      {
+       "at": "L06:1",
+       "text": {
+        "hi": "REFLECTION 🔁",
+        "en": "REFLECTION 🔁"
+       },
+       "cls": "punch",
+       "top": 400
+      }
+     ]
+    },
+    {
+     "name": "distance",
+     "at": "L07",
+     "plate": "p_dark",
+     "diagram": {
+      "type": "distance"
+     },
+     "tags": [
+      {
+       "at": "L07:1",
+       "text": {
+        "hi": "time → doori",
+        "en": "time → distance"
+       },
+       "x": 360,
+       "y": 470
+      }
+     ]
+    },
+    {
+     "name": "fast",
+     "at": "L08",
+     "plate": "p_storm",
+     "push": [
+      1.05,
+      1.12
+     ],
+     "data": {
+      "at": "L08:1",
+      "to": 1,
+      "prefix": "< ",
+      "unit": "ms",
+      "label": {
+       "hi": "mein jawab",
+       "en": "echo time"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "sd",
+   "at": "L09",
+   "shots": [
+    {
+     "name": "heavy",
+     "at": "L09",
+     "plate": "p_rain",
+     "kw": [
+      {
+       "at": "L09:1",
+       "text": {
+        "hi": "TEZ GOONJ = TEZ BAARISH",
+        "en": "STRONG ECHO = HEAVY RAIN"
+       },
+       "top": 420
+      }
+     ]
+    },
+    {
+     "name": "map",
+     "at": "L10",
+     "plate": "p_dark",
+     "diagram": {
+      "type": "colorbar",
+      "rows": [
+       [
+        "#22C55E",
+        "g"
+       ],
+       [
+        "#FACC15",
+        "y"
+       ],
+       [
+        "#EF4444",
+        "r"
+       ]
+      ],
+      "ats": [
+       "L10:1",
+       "L10:2",
+       "L10:3"
+      ],
+      "text": {
+       "g": {
+        "hi": "halki",
+        "en": "light"
+       },
+       "y": {
+        "hi": "madhyam",
+        "en": "moderate"
+       },
+       "r": {
+        "hi": "tez",
+        "en": "heavy"
+       }
+      }
+     },
+     "tags": [
+      {
+       "at": "L10",
+       "text": {
+        "hi": "radar map",
+        "en": "radar map"
+       },
+       "x": 400,
+       "y": 560
+      }
+     ]
+    },
+    {
+     "name": "mmhr",
+     "at": "L11",
+     "plate": "p_drops",
+     "kw": [
+      {
+       "at": "L11:1",
+       "text": {
+        "hi": "MM / GHANTA 🌧️",
+        "en": "MM / HOUR 🌧️"
+       },
+       "top": 420
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "se",
+   "at": "L12",
+   "shots": [
+    {
+     "name": "magic",
+     "at": "L12",
+     "plate": "p_navy_warm",
+     "flash": true,
+     "push": [
+      1.0,
+      1.12
+     ],
+     "kw": [
+      {
+       "at": "L12:1-0.1",
+       "text": {
+        "hi": "DOPPLER EFFECT 😳",
+        "en": "DOPPLER EFFECT 😳"
+       },
+       "cls": "punch",
+       "top": 760
+      }
+     ]
+    },
+    {
+     "name": "siren",
+     "at": "L13",
+     "plate": "p_ambulance",
+     "tags": [
+      {
+       "at": "L13:1",
+       "text": {
+        "hi": "paas → oonchi awaaz ↑",
+        "en": "closer → higher pitch ↑"
+       },
+       "x": 200,
+       "y": 470
+      },
+      {
+       "at": "L13:2",
+       "text": {
+        "hi": "door → neechi awaaz ↓",
+        "en": "away → lower pitch ↓"
+       },
+       "x": 200,
+       "y": 1180,
+       "warm": true
+      }
+     ]
+    },
+    {
+     "name": "shift",
+     "at": "L14",
+     "plate": "p_dark",
+     "diagram": {
+      "type": "doppler"
+     },
+     "tags": [
+      {
+       "at": "L14:1",
+       "text": {
+        "hi": "frequency shift",
+        "en": "frequency shift"
+       },
+       "x": 360,
+       "y": 470
+      }
+     ]
+    },
+    {
+     "name": "toward",
+     "at": "L15",
+     "plate": "p_storm",
+     "push": [
+      1.0,
+      1.08
+     ],
+     "tags": [
+      {
+       "at": "L15:1",
+       "text": {
+        "hi": "🟢 aa rahi hai",
+        "en": "🟢 coming toward us"
+       },
+       "x": 200,
+       "y": 520
+      },
+      {
+       "at": "L15:2",
+       "text": {
+        "hi": "🔴 door ja rahi hai",
+        "en": "🔴 moving away"
+       },
+       "x": 200,
+       "y": 640,
+       "warm": true
+      }
+     ],
+     "kw": [
+      {
+       "at": "L15:3",
+       "text": {
+        "hi": "KITNI TEZ? 💨",
+        "en": "HOW FAST? 💨"
+       },
+       "top": 900
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sf",
+   "at": "L16",
+   "dissolve": true,
+   "shots": [
+    {
+     "name": "couplet",
+     "at": "L16",
+     "plate": "p_dark",
+     "diagram": {
+      "type": "couplet"
+     },
+     "tags": [
+      {
+       "at": "L16:1",
+       "text": {
+        "hi": "aa rahi",
+        "en": "toward"
+       },
+       "x": 290,
+       "y": 1210
+      },
+      {
+       "at": "L16:2",
+       "text": {
+        "hi": "ja rahi",
+        "en": "away"
+       },
+       "x": 610,
+       "y": 1210,
+       "warm": true
+      }
+     ]
+    },
+    {
+     "name": "tornado",
+     "at": "L17",
+     "plate": "p_tornado",
+     "kw": [
+      {
+       "at": "L17:1",
+       "text": {
+        "hi": "TOOFAAN GHOOM RAHA 🌪️",
+        "en": "ROTATING STORM 🌪️"
+       },
+       "top": 400
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sg",
+   "at": "L18",
+   "shots": [
+    {
+     "name": "payoff",
+     "at": "L18",
+     "plate": "p_navy",
+     "streak": true,
+     "cut": {
+      "png": "c_dome",
+      "x": 270,
+      "y": 760,
+      "w": 540
+     },
+     "diagram": {
+      "type": "pulses",
+      "x": 540,
+      "y": 900,
+      "icon": false
+     },
+     "kw": [
+      {
+       "at": "L18:1",
+       "text": {
+        "hi": "PEHLE HI PATA 📡",
+        "en": "IT KNOWS FIRST 📡"
+       },
+       "top": 380
+      }
+     ]
+    },
+    {
+     "name": "cta",
+     "at": "L19",
+     "plate": "p_navy",
+     "push": [
+      1.0,
+      1.04
+     ],
+     "cta": true,
+     "cta_at": "L19:1",
+     "kw": [
+      {
+       "at": "L19+0.1",
+       "text": {
+        "hi": "CONCEPTUAL CLARITY 💡",
+        "en": "CONCEPTUAL CLARITY 💡"
+       },
+       "top": 330
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "payoff": "L18",
+ "music": [
+  {
+   "track": "bgm_001",
+   "at": "L01",
+   "gain": -18
+  },
+  {
+   "track": "bgm_003",
+   "at": "L05",
+   "gain": -11
+  },
+  {
+   "track": "bgm_002",
+   "at": "L16",
+   "gain": -12
+  }
+ ],
+ "meta": {
+  "hi": {
+   "title": "Weather Radar Aasmaan Ki Invisible Baarish Ko Kaise Dekh Leta Hai?",
+   "description": "Aasmaan mein door baarish ho rahi hai, aapko dikh bhi nahi rahi, phir bhi weather radar ko kaise pata chal jaata hai? Is short mein samjho radar ka asli science: electromagnetic waves (microwave pulses), reflection yaani echo, Doppler effect aur baarish ko mm per hour mein naapne ka tarika.\n\nRadar ki microwave pulses baadal ki chhoti boondon se nikal jaati hain lekin baarish ki badi boondon se takraakar wapas aati hain. Echo kitni der mein lauta usse doori pata chalti hai, echo kitna strong hai usse baarish kitni bhaari hai. Doppler weather radar boondon ki speed aur direction bhi naap leta hai, aur ek taraf aati aur doosri taraf jaati boondein ghoomte toofaan (rotating storm, tornado jaisa pattern) ki chetavani deti hain. Isi se IMD aur weather forecast aapke shehar tak baarish pahunchne se pehle alert de paate hain.\n\nAisi hi conceptual clarity ke liye Merit Mantra ko subscribe karein aur comment mein batayein agla sawal kya ho.",
+   "hashtags": "#WeatherRadar, #DopplerRadar, #DopplerEffect, #Radar, #RainRadar, #ScienceInHindi, #PhysicsInHindi, #ElectromagneticWaves, #Monsoon, #WeatherForecast, #IMD, #Tornado, #ScienceFacts, #Shorts, #YouTubeShorts, #MeritMantra",
+   "instagram": "Aasmaan mein door baarish ho rahi hai… lekin radar ko kaise pata chal jaata hai? 📡🌧️\n\nMicrowave pulses, echo aur Doppler effect: weather radar baarish ko aap tak pahunchne se pehle hi dekh leta hai, aur ghoomte toofaan bhi pakad leta hai! 🌪️\n\nSave karo, share karo, aur Merit Mantra ko follow karo aisi conceptual clarity ke liye. 💡\n\n#WeatherRadar #DopplerRadar #DopplerEffect #ScienceInHindi #PhysicsInHindi #Monsoon #WeatherForecast #ScienceFacts #Reels #MeritMantra"
+  },
+  "en": {
+   "title": "How Does Weather Radar See Invisible Rain in the Sky?",
+   "description": "It's raining far away, hidden behind clouds, so how does a weather radar already know? This short explains the real science of weather radar: electromagnetic waves (microwave pulses), reflection and echoes, the Doppler effect and how radar measures rainfall in millimetres per hour.\n\nRadar pulses slip past tiny cloud droplets but bounce off bigger raindrops. The echo's travel time gives the distance, and its strength shows how heavy the rain is. A Doppler weather radar also measures how fast precipitation is moving toward or away from it, and drops rushing in on one side and away on the other reveal a rotating storm, the kind of pattern behind tornado warnings. That is how forecasters see rain before it reaches you.\n\nSubscribe to Merit Mantra for more conceptual clarity, and comment the next science question you want answered.",
+   "hashtags": "#WeatherRadar, #DopplerRadar, #DopplerEffect, #Radar, #HowRadarWorks, #RainRadar, #Physics, #ScienceExplained, #ElectromagneticWaves, #Meteorology, #WeatherForecast, #Tornado, #StormChasing, #ScienceFacts, #Shorts, #MeritMantra",
+   "instagram": "It's raining far away… so how does a radar know? 📡🌧️\n\nMicrowave pulses, echoes and the Doppler effect let weather radar see rain before it reaches you, and even spot spinning storms. 🌪️\n\nSave this, share it, and follow Merit Mantra for more conceptual clarity. 💡\n\n#WeatherRadar #DopplerRadar #DopplerEffect #Physics #ScienceExplained #Meteorology #WeatherForecast #ScienceFacts #Reels #MeritMantra"
+  }
+ }
+}

@@ -1,0 +1,5 @@
+Topic: How Can Radar See Rain Before It Reaches You?
+Title: How Does Weather Radar See Invisible Rain in the Sky?
+Hook: "Aasmaan mein door baarish ho rahi hai… lekin radar ko kaise pata chal jaata hai?"
+Hidden science: Electromagnetic waves, reflection, Doppler shift and precipitation measurement.
+Interesting fact: Doppler weather radar can estimate the movement of precipitation and help identify rotating storm patterns.

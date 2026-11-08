@@ -1,0 +1,106 @@
+=== 2026-11-08 13:37  why-is-the-sky-blue
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\writer.py D:\MeritMantra-Portable\videos\why-is-the-sky-blue\input.txt D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+=== 2026-11-08 13:38  why-is-the-sky-blue
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\writer.py D:\MeritMantra-Portable\videos\why-is-the-sky-blue\input.txt D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+=== 2026-11-08 13:41  why-is-the-sky-blue
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\writer.py D:\MeritMantra-Portable\videos\why-is-the-sky-blue\input.txt D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+=== 2026-11-08 13:41  why-is-the-sky-blue
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\writer.py D:\MeritMantra-Portable\videos\why-is-the-sky-blue\input.txt D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+
+Script written: videos\why-is-the-sky-blue\script.json  ->  check it, then run BUILD_VIDEO.cmd why-is-the-sky-blue
+=== 2026-11-08 13:41  why-is-the-sky-blue
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\layout.py D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+layout -> D:\MeritMantra-Portable\videos\why-is-the-sky-blue\spec.json (7 sections, 17 shots, 8 images)
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_check.py D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+OK
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_audio.py voice D:\MeritMantra-Portable\videos\why-is-the-sky-blue hi
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_audio.py narrate D:\MeritMantra-Portable\videos\why-is-the-sky-blue hi
+hi narration done; voice_end 68.249 wps 3.13
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_audio.py voice D:\MeritMantra-Portable\videos\why-is-the-sky-blue en
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_audio.py narrate D:\MeritMantra-Portable\videos\why-is-the-sky-blue en
+en narration done; voice_end 62.998 wps 2.94
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_audio.py assets D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\layout.py D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+layout -> D:\MeritMantra-Portable\videos\why-is-the-sky-blue\spec.json (7 sections, 17 shots, 8 images)
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_check.py D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+OK
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_build.py sheet D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+sheet -> D:\MeritMantra-Portable\videos\why-is-the-sky-blue\media\sheet.jpg
+
+
+Look at the images that opened. To swap one: change its search phrase in videos\why-is-the-sky-blue\script.json ("images"),
+delete its line from videos\why-is-the-sky-blue\media\assets.json, close this window and run BUILD_VIDEO.cmd why-is-the-sky-blue again.
+=== 2026-11-08 13:43  why-is-the-sky-blue
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\layout.py D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+layout -> D:\MeritMantra-Portable\videos\why-is-the-sky-blue\spec.json (7 sections, 17 shots, 8 images)
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_check.py D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+OK
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_audio.py assets D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\layout.py D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+layout -> D:\MeritMantra-Portable\videos\why-is-the-sky-blue\spec.json (7 sections, 17 shots, 8 images)
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_check.py D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+OK
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_build.py sheet D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+sheet -> D:\MeritMantra-Portable\videos\why-is-the-sky-blue\media\sheet.jpg
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_build.py all D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+=== DONE. Your videos are in the export folder.
+=== 2026-11-08 13:56  why-is-the-sky-blue
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\layout.py D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+layout -> D:\MeritMantra-Portable\videos\why-is-the-sky-blue\spec.json (7 sections, 17 shots, 5 images)
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_check.py D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+OK
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_audio.py narrate D:\MeritMantra-Portable\videos\why-is-the-sky-blue hi
+hi narration done; voice_end 68.249 wps 3.13
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_audio.py narrate D:\MeritMantra-Portable\videos\why-is-the-sky-blue en
+en narration done; voice_end 62.998 wps 3.09
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_audio.py assets D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\layout.py D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+layout -> D:\MeritMantra-Portable\videos\why-is-the-sky-blue\spec.json (7 sections, 17 shots, 5 images)
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_check.py D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+OK
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_build.py sheet D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+sheet -> D:\MeritMantra-Portable\videos\why-is-the-sky-blue\media\sheet.jpg
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_build.py all D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+=== DONE. Your videos are in the export folder.
+=== 2026-11-08 14:07  why-is-the-sky-blue
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\layout.py D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+layout -> D:\MeritMantra-Portable\videos\why-is-the-sky-blue\spec.json (7 sections, 17 shots, 5 images)
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_check.py D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+OK
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_audio.py narrate D:\MeritMantra-Portable\videos\why-is-the-sky-blue hi
+hi narration done; voice_end 68.249 wps 3.13
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_audio.py narrate D:\MeritMantra-Portable\videos\why-is-the-sky-blue en
+en narration done; voice_end 62.998 wps 3.09
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_audio.py assets D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\layout.py D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+layout -> D:\MeritMantra-Portable\videos\why-is-the-sky-blue\spec.json (7 sections, 17 shots, 8 images)
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_check.py D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+OK
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_build.py sheet D:\MeritMantra-Portable\videos\why-is-the-sky-blue
+sheet -> D:\MeritMantra-Portable\videos\why-is-the-sky-blue\media\sheet.jpg
+
+$ C:\Users\write\AppData\Local\Programs\Python\Python312\python.exe D:\MeritMantra-Portable\pipeline\engine\mm_build.py all D:\MeritMantra-Portable\videos\why-is-the-sky-blue

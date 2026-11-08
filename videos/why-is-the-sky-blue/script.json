@@ -1,0 +1,423 @@
+{
+ "name": "Sky-Blue-Sunset-Orange",
+ "images": {
+  "sun": "bright yellow sun in clear blue sky",
+  "sky": "vast blue sky with white clouds",
+  "prism": "rainbow light through glass prism dark background photo",
+  "waves": "deep blue sky looking straight up photo",
+  "blue-ray": "clear blue sky over mountains photo",
+  "red-ray": "red ray passing through air",
+  "sunset": "vibrant orange sunset over horizon",
+  "mars": "red planet Mars surface and sky"
+ },
+ "thumb": {
+  "img": "sunset",
+  "line1": {
+   "hi": "Neela Aasmaan, Orange Sunset",
+   "en": "Blue Sky, Orange Sunset"
+  },
+  "line2": {
+   "hi": "Science ka Raaz!",
+   "en": "The Science Secret!"
+  },
+  "sub": {
+   "hi": "Aasmaan neela kyun?",
+   "en": "Why is the sky blue?"
+  }
+ },
+ "twist": "L04",
+ "payoff": "L16",
+ "langs": [
+  "hi",
+  "en"
+ ],
+ "lines": [
+  {
+   "id": "L01",
+   "hi": {
+    "tts": "आसमान नीला क्यों दिखता है? और शाम को वही आसमान ऑरेंज कैसे हो जाता है?",
+    "cap": [
+     "aasman neela kyon dikhta",
+     "hai? aur shaam ko wahi",
+     "aasman orange kaise ho jaata hai?"
+    ]
+   },
+   "en": {
+    "tts": "Why does the sky look blue? And how does the same sky turn orange during sunset?",
+    "cap": [
+     "why does the sky look blue?",
+     "and how does the same sky",
+     "turn orange during sunset?"
+    ]
+   },
+   "img": "sky",
+   "kw": {
+    "hi": "aasman ka rang",
+    "en": "sky color"
+   }
+  },
+  {
+   "id": "L02",
+   "hi": {
+    "tts": "सूरज की रोशनी असल में सभी रंगों का एक मिक्सचर होती है।",
+    "cap": [
+     "suraj ki roshni asal mein",
+     "sabhi rangon ka ek mixture",
+     "hoti hai."
+    ]
+   },
+   "en": {
+    "tts": "Sunlight is actually a mix of all colors.",
+    "cap": [
+     "sunlight is actually a mix",
+     "of all colors"
+    ]
+   },
+   "img": "sun",
+   "kw": {
+    "hi": "suraj ki roshni",
+    "en": "sunlight"
+   }
+  },
+  {
+   "id": "L03",
+   "hi": {
+    "tts": "यह समझना ज़रूरी है कि रोशनी हमारे atmosphere से कैसे interact करती है।",
+    "cap": [
+     "yeh samajhna zaroori hai ki",
+     "roshni hamare atmosphere se",
+     "kaise interact karti hai."
+    ]
+   },
+   "en": {
+    "tts": "Understanding this matters because it reveals how light interacts with our atmosphere.",
+    "cap": [
+     "understanding this matters",
+     "because it reveals how light",
+     "interacts with our atmosphere"
+    ]
+   },
+   "img": "sky",
+   "kw": {
+    "hi": "atmosphere interaction",
+    "en": "atmosphere"
+   }
+  },
+  {
+   "id": "L04",
+   "hi": {
+    "tts": "लेकिन असली राज़ यह है कि यह सिर्फ एक simple reflection नहीं है।",
+    "cap": [
+     "lekin asli raaz yeh hai ki",
+     "yeh sirf ek simple",
+     "reflection nahi hai."
+    ]
+   },
+   "en": {
+    "tts": "But here's the twist, it's not just a simple reflection.",
+    "cap": [
+     "but here's the twist it's",
+     "not just a simple reflection"
+    ]
+   },
+   "img": "sun",
+   "kw": {
+    "hi": "asli raaz",
+    "en": "the twist"
+   }
+  },
+  {
+   "id": "L05",
+   "hi": {
+    "tts": "सूरज की रोशनी white light है जिसमें अलग-अलग wavelengths होती हैं।",
+    "cap": [
+     "suraj ki roshni white light",
+     "hai jismein alag-alag",
+     "wavelengths hoti hain"
+    ]
+   },
+   "en": {
+    "tts": "Sunlight is white light made of different wavelengths.",
+    "cap": [
+     "sunlight is white light made",
+     "of different wavelengths"
+    ]
+   },
+   "img": "prism",
+   "kw": {
+    "hi": "white light wavelengths 🌈",
+    "en": "white light wavelengths 🌈"
+   }
+  },
+  {
+   "id": "L06",
+   "hi": {
+    "tts": "इसे एक thali की तरह समझो जहाँ हर dish का size अलग होता है।",
+    "cap": [
+     "ise ek thali ki tarah samjho",
+     "jahan har dish ka size alag",
+     "hota hai"
+    ]
+   },
+   "en": {
+    "tts": "Think of it like a thali where every dish has a different size.",
+    "cap": [
+     "think of it like a thali",
+     "where every dish has a",
+     "different size"
+    ]
+   },
+   "img": "prism",
+   "kw": {
+    "hi": "thali analogy 🍽️",
+    "en": "thali analogy 🍽️"
+   }
+  },
+  {
+   "id": "L07",
+   "hi": {
+    "tts": "छोटी blue wavelengths हवा में ज़्यादा आसानी से scatter होती हैं।",
+    "cap": [
+     "chhoti blue wavelengths hawa",
+     "mein zyada aasani se scatter",
+     "hoti hain"
+    ]
+   },
+   "en": {
+    "tts": "Shorter blue wavelengths scatter more easily in the air.",
+    "cap": [
+     "shorter blue wavelengths",
+     "scatter more easily in the air"
+    ]
+   },
+   "img": "waves",
+   "kw": {
+    "hi": "blue scatter 🌊",
+    "en": "blue scatter 🌊"
+   }
+  },
+  {
+   "id": "L08",
+   "hi": {
+    "tts": "Blue rays हर तरफ bounce करती हैं जबकि red rays सीधी जाती हैं।",
+    "cap": [
+     "blue rays har taraf bounce",
+     "karti hain jabki red rays",
+     "seedhi jaati hain"
+    ]
+   },
+   "en": {
+    "tts": "Blue rays bounce everywhere while red rays keep going straight.",
+    "cap": [
+     "blue rays bounce everywhere",
+     "while red rays keep going straight"
+    ]
+   },
+   "img": "blue-ray",
+   "kw": {
+    "hi": "rays bounce ⚡",
+    "en": "rays bounce ⚡"
+   }
+  },
+  {
+   "id": "L09",
+   "hi": {
+    "tts": "यह बिखरा हुआ नीला प्रकाश हर दिशा से हमारी आँखों तक पहुँचता है।",
+    "cap": [
+     "yeh bikhra hua neela prakash",
+     "har disha se hamari aankhon",
+     "tak pahunchta hai"
+    ]
+   },
+   "en": {
+    "tts": "This scattered blue light reaches our eyes from all directions.",
+    "cap": [
+     "this scattered blue light",
+     "reaches our eyes from all",
+     "directions"
+    ]
+   },
+   "img": "sky",
+   "kw": {
+    "hi": "BLUE LIGHT SCATTERING 🌈",
+    "en": "SCATTERED BLUE LIGHT 🌈"
+   }
+  },
+  {
+   "id": "L10",
+   "hi": {
+    "tts": "शाम के समय सूरज नीचे होता है, इसलिए प्रकाश का रास्ता लंबा हो जाता है।",
+    "cap": [
+     "shaam ke samay suraj neeche",
+     "hota hai isliye prakash ka",
+     "rasta lamba ho jata hai"
+    ]
+   },
+   "en": {
+    "tts": "At sunset, the sun is lower, so the light travels a longer path.",
+    "cap": [
+     "at sunset the sun is lower",
+     "so the light travels a",
+     "longer path"
+    ]
+   },
+   "img": "sunset",
+   "kw": {
+    "hi": "LONGER SUNLIGHT PATH 🌅",
+    "en": "LONGER PATH 🌅"
+   }
+  },
+  {
+   "id": "L11",
+   "hi": {
+    "tts": "हम तक पहुँचने से पहले ही ज़्यादातर नीला प्रकाश पहले ही बिखर चुका होता है।",
+    "cap": [
+     "hum tak pahunchne se pehle",
+     "hi zyada tar neela prakash",
+     "bikhra chuka hota hai"
+    ]
+   },
+   "en": {
+    "tts": "By the time it reaches us, most of the blue light is already scattered away.",
+    "cap": [
+     "by the time it reaches us",
+     "most of the blue light is",
+     "already scattered away"
+    ]
+   },
+   "img": "red-ray",
+   "kw": {
+    "hi": "BLUE SCATTERED AWAY 💨",
+    "en": "BLUE FILTERED OUT 💨"
+   }
+  },
+  {
+   "id": "L12",
+   "hi": {
+    "tts": "बचा हुआ सीधा प्रकाश हमारी आँखों को लाल ऑरेंज दिखाई देता है।",
+    "cap": [
+     "bacha hua seedha prakash",
+     "hamari aankhon ko laal",
+     "orange dikhai deta hai"
+    ]
+   },
+   "en": {
+    "tts": "The remaining direct light looks reddish orange to our eyes.",
+    "cap": [
+     "the remaining direct light",
+     "looks reddish orange to our eyes"
+    ]
+   },
+   "img": "sunset",
+   "kw": {
+    "hi": "ORANGE SUNSET 🌇",
+    "en": "ORANGE SUNSET 🌇"
+   }
+  },
+  {
+   "id": "L13",
+   "hi": {
+    "tts": "मंगल ग्रह पर दिन का आसमान बटरस्कॉच और सूर्यास्त नीला दिखता है।",
+    "cap": [
+     "mangul grah par din ka",
+     "aasman butterscotch aur",
+     "suryast neela"
+    ]
+   },
+   "en": {
+    "tts": "On Mars, the daytime sky looks butterscotch and the sunset looks blue.",
+    "cap": [
+     "on mars the daytime sky",
+     "looks butterscotch and the",
+     "sunset looks blue"
+    ]
+   },
+   "img": "mars",
+   "kw": {
+    "hi": "मंगल ग्रह 🪐",
+    "en": "mars planet 🪐"
+   }
+  },
+  {
+   "id": "L14",
+   "hi": {
+    "tts": "ऐसा वहां की धूल भरी अलग atmosphere की वजह से होता है।",
+    "cap": [
+     "aisa wahan ki dhool bhari",
+     "alag atmosphere ki wajah se"
+    ]
+   },
+   "en": {
+    "tts": "This happens because of Mars's different atmosphere filled with dust.",
+    "cap": [
+     "this happens because of",
+     "mars's different atmosphere",
+     "filled with dust"
+    ]
+   },
+   "img": "mars",
+   "kw": {
+    "hi": "धूल भरी atmosphere 🌫️",
+    "en": "dusty atmosphere 🌫️"
+   }
+  },
+  {
+   "id": "L15",
+   "hi": {
+    "tts": "तो आसमान नीला इसलिए है क्योंकि छोटी wavelengths ज़्यादा scatter होती हैं।",
+    "cap": [
+     "toh aasman neela isliye hai",
+     "kyunki chhoti wavelengths",
+     "zyada scatter hoti"
+    ]
+   },
+   "en": {
+    "tts": "So the sky is blue because shorter wavelengths scatter more.",
+    "cap": [
+     "so the sky is blue because",
+     "shorter wavelengths scatter more"
+    ]
+   },
+   "img": "sky",
+   "kw": {
+    "hi": "छोटी wavelengths 🌊",
+    "en": "short wavelengths 🌊"
+   }
+  },
+  {
+   "id": "L16",
+   "hi": {
+    "tts": "लंबा रास्ता नीली रोशनी को filter कर देता है, जिससे सूर्यास्त ऑरेंज होता है।",
+    "cap": [
+     "lamba rasta neeli roshni ko",
+     "filter kar deta hai jisse"
+    ]
+   },
+   "en": {
+    "tts": "The long path filters out the blue light, making the sunset orange.",
+    "cap": [
+     "the long path filters out",
+     "the blue light making the",
+     "sunset orange"
+    ]
+   },
+   "img": "sunset",
+   "kw": {
+    "hi": "सूर्यास्त ऑरेंज 🌅",
+    "en": "orange sunset 🌅"
+   }
+  }
+ ],
+ "meta": {
+  "hi": {
+   "title": "Aasmaan neela aur sunset orange kyun hota hai?",
+   "description": "Aasmaan neela kyun dikhta hai aur shaam ko orange kaise ho jaata hai? Is video mein hum Rayleigh scattering aur light ke wavelength ke science ko samjhenge. Yeh samajhna zaroori hai kyunki isse pata chalta hai ki hamara atmosphere light ke saath kaise interact karta hai. Agar aapko is tarah ke science facts pasand hain, toh Merit Mantra ko subscribe karein.",
+   "hashtags": "#MeritMantra, #ScienceHinglish, #SkyBlue, #SunsetOrange, #RayleighScattering, #Wavelength, #Atmosphere, #ScienceShorts, #LearnScience, #HinglishExplainers, #Shorts, #Curiosity"
+  },
+  "en": {
+   "title": "Why is the sky blue and sunsets orange?",
+   "description": "Why does the sky look blue, and how does it turn orange at sunset? In this short explainer, we dive into the hidden science of Rayleigh scattering and the wavelength of light. Understanding this matters because it reveals how light interacts with our atmosphere. If you enjoy these quick science explainers, subscribe to Merit Mantra.",
+   "hashtags": "#MeritMantra, #ScienceHinglish, #SkyBlue, #SunsetOrange, #RayleighScattering, #Wavelength, #Atmosphere, #ScienceShorts, #LearnScience, #HinglishExplainers, #Shorts, #Curiosity"
+  }
+ }
+}
